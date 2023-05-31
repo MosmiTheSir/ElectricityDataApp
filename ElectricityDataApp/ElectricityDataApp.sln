@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElectricityDataApp", "ElectricityDataApp\ElectricityDataApp.csproj", "{8544EE8C-B55D-48D4-84AC-2D707B162841}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElectricityDataApp.Tests", "ElectricityDataApp.Tests\ElectricityDataApp.Tests.csproj", "{EC5F5BA3-9EDE-4906-935A-3F414B26ECA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8544EE8C-B55D-48D4-84AC-2D707B162841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8544EE8C-B55D-48D4-84AC-2D707B162841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8544EE8C-B55D-48D4-84AC-2D707B162841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8544EE8C-B55D-48D4-84AC-2D707B162841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC5F5BA3-9EDE-4906-935A-3F414B26ECA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5F5BA3-9EDE-4906-935A-3F414B26ECA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5F5BA3-9EDE-4906-935A-3F414B26ECA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5F5BA3-9EDE-4906-935A-3F414B26ECA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {210DCD34-3064-48BF-9149-D55987B7D5C0}
+	EndGlobalSection
+EndGlobal
